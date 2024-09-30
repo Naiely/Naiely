@@ -1,13 +1,13 @@
 <h1 align="center">Hola, soy Carla Naiely Pérez</h1>
 <h3 align="center">Una estudiante apasionada de México 🇲🇽</h3>
 
-- 🔭 Ahora estoy trabajando en **una cámara frigorífica inteligente para el transporte de productos farmacéuticos**
+- 🔭 I'm now working on building my **curriculum.**
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://miscompetenciastec21.tec.mx/elumen/StudentAchievements?actionMethod=portfolio##4747065](https://miscompetenciastec21.tec.mx/elumen/StudentAchievements?actionMethod=portfolio##4747065)
+- 👨‍💻 Some of my projects are available at https://www.linkedin.com/in/naiely/
 
-- 💬 Ask me about **phyton and artificial intelligence**
+- 💬 Ask me about **phyton and artificial intelligence.**
 
 - 📫 How to reach me **A01285695@tec.mx**
 
