@@ -1,9 +1,9 @@
 <h1 align="center">Hola, soy Carla Naiely Pérez</h1>
 <h3 align="center">Una estudiante apasionada de México 🇲🇽</h3>
 
-- 🔭 I'm now working on building my **curriculum.**
+- 🔭 I'm now working on building my **youtube channel :P.**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **LLM's, AI, Data engineering and data science.**
 
 - 👨‍💻 Some of my projects are available at https://www.linkedin.com/in/naiely/
 
